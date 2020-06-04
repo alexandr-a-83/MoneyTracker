@@ -1,0 +1,12 @@
+1-To Clear a Text Box:
+
+TextBox.Clear(); 
+OR
+TextBox.Text = "";
+
+
+
+2-To Set a Radio Button as Checked:
+
+RadioButton.Checked = True;
+

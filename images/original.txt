@@ -1,0 +1,5 @@
+To Save Application Settings:
+
+
+Properties.Settings.Default.apppassword = "YourValue"
+Properties.Settings.Default.Save();
